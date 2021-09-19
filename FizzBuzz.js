@@ -14,4 +14,4 @@ let FizzBuzz = (numA, numB, p1, p2, p3) => {
     }
     
 }
-console.log(FizzBuzz(15,2, 'FizzBuzz', 'Fizz','Buzz'));
+console.log(FizzBuzz(5,10, 'FizzBuzz', 'Fizz','Buzz'));
